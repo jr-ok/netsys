@@ -17,7 +17,7 @@ const Discord = require('discord.js');
  const bot = new Discord.Client();
 
  // Discord Bot Token - Don't Share This!
- const token = 'NzAxODk4ODUwMjk3OTcwNzg4.Xp5A-w.zbRLwcCmEdZ03X3VkM6Zwl4rt_g';
+ const token = 'TOKEN';
  // Default Prefix
 const PREFIX = '>';
 
